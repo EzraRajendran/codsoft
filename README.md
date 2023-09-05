@@ -38,7 +38,7 @@ To install and set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chatbot-project.git
+   git clone https://github.com/EzraRajendran/codsoft/chatbot-project.git
    ```
 
 2. Navigate to the project directory:
@@ -99,6 +99,3 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code. Please refer to the license file for more details.
 
----
-
-Feel free to customize this README session to provide specific information about your chatbot project. Include details about the project's purpose, usage, and how others can contribute.
