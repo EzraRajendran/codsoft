@@ -1,7 +1,3 @@
-Certainly! Here's an example of a README session for an image captioning project:
-
----
-
 # Image Captioning Project
 
 ## Table of Contents
@@ -107,7 +103,3 @@ We welcome contributions from the community! If you'd like to contribute to the 
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code. Please refer to the license file for more details.
-
----
-
-Customize this README session to provide specific information about your image captioning project, including details about model training, usage, and how others can contribute.
